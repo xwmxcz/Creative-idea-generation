@@ -1,0 +1,5 @@
+{
+  "name": "AI Creative Suite",
+  "description": "An application to generate videos, detailed product images, and audio descriptions from a single uploaded image and a text prompt, leveraging various Gemini models.",
+  "requestFramePermissions": []
+}
